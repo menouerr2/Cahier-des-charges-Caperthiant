@@ -1,4 +1,4 @@
-#CAHIER DES CHARGES 
+# CAHIER DES CHARGES 
 
 
 
@@ -8,6 +8,6 @@
 
   * Les interlocuteurs : Client et prestataire, référents et coordonnées, spécialisations de chacun.   
 
-  **1.A.**Présentation du projet**
+  **1.A. **Présentation du projet**
 
   * Ce site consiste à réaliser un site web dynamique 
