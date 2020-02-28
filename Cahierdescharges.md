@@ -11,7 +11,19 @@
 
 **1.A.** **Présentation du projet**
 
-- Ce site consiste à réaliser un site web dynamique
+- Ce site consiste à réaliser un site web statique.
+  Le besoin est né pour que l'assocation as plus de
+  visibilité afin de prévenir et aider juridiquemet
+  les personnes atteint de cette maladie.
+
+- Le site s'adresse à toute les personnes pour la prévention
+  et aux personnes atteintes pour les aides de soutiens et
+  juridique.
+
+- Le site comprendras six pages de navigation :
+
+- Une page "d'accueil"; une page "horaires et contacts"; une page "historique"; une page "qui somment nous" et une page
+  page "ou nous trouver"
 
 **2.** **Déscription graphique et ergonomique**
 
